@@ -1,3 +1,6 @@
+[![Github CI][badge-github-ci]][link-github-ci]
+
+
 *This project is not actively maintained.*
 
 Nano SVG
@@ -100,3 +103,7 @@ $ ./example
 # License
 
 The library is licensed under [zlib license](LICENSE.txt)
+
+[badge-github-ci]:https://github.com/johnbeard/nanosvg/workflows/C/C++%20CI/badge.svg
+
+[link-github-ci]:https://github.com/johnbeard/nanosvg/actions?query=workflow%3Atest+branch%3Amaster
